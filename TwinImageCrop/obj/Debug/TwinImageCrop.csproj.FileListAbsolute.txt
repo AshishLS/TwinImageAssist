@@ -1,0 +1,9 @@
+C:\Users\Ashish\Desktop\TKinter\donNetImageCropping\TwinImageCrop\TwinImageCrop\bin\Debug\TwinImageCrop.exe.config
+C:\Users\Ashish\Desktop\TKinter\donNetImageCropping\TwinImageCrop\TwinImageCrop\bin\Debug\TwinImageCrop.exe
+C:\Users\Ashish\Desktop\TKinter\donNetImageCropping\TwinImageCrop\TwinImageCrop\bin\Debug\TwinImageCrop.pdb
+C:\Users\Ashish\Desktop\TKinter\donNetImageCropping\TwinImageCrop\TwinImageCrop\obj\Debug\TwinImageCrop.csprojResolveAssemblyReference.cache
+C:\Users\Ashish\Desktop\TKinter\donNetImageCropping\TwinImageCrop\TwinImageCrop\obj\Debug\TwinImageCrop.Form1.resources
+C:\Users\Ashish\Desktop\TKinter\donNetImageCropping\TwinImageCrop\TwinImageCrop\obj\Debug\TwinImageCrop.Properties.Resources.resources
+C:\Users\Ashish\Desktop\TKinter\donNetImageCropping\TwinImageCrop\TwinImageCrop\obj\Debug\TwinImageCrop.csproj.GenerateResource.Cache
+C:\Users\Ashish\Desktop\TKinter\donNetImageCropping\TwinImageCrop\TwinImageCrop\obj\Debug\TwinImageCrop.exe
+C:\Users\Ashish\Desktop\TKinter\donNetImageCropping\TwinImageCrop\TwinImageCrop\obj\Debug\TwinImageCrop.pdb
